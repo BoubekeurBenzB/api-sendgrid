@@ -246,7 +246,7 @@ textarea {
 }
 .error-text {
   display: none;
-  margin-top: -2rem;
+  margin-top: -1.8rem;
   font-size: 12px;
 }
 </style>
